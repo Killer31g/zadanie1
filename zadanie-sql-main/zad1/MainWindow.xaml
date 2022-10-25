@@ -1,0 +1,84 @@
+﻿<Window x:Class="zadanie_na_ocene.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadanie_na_ocene"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="637" Width="696" FontFamily="Comic Sans MS"
+        Name="ThisWindow" Background="#FFC5DBF1">
+    <Window.Resources>
+        <FontFamily x:Key="ButtonFontFamily1">Gadugi</FontFamily>
+    </Window.Resources>
+    <StackPanel RenderTransformOrigin="0.5,0.5" Margin="0,0,0,6">
+        <StackPanel.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.177"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </StackPanel.RenderTransform>
+        <TextBlock Text="Imie:" Foreground="Black" FontFamily="Segoe UI Black" FontWeight="Bold" FontStyle="Italic" FontSize="20" Margin="0,8,0,0">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF85FFEE" Offset="1"/>
+                    <GradientStop Color="#FFE4E095"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBox Name="TextBoxNameValue" Foreground="Black" FontStyle="Normal" Text="{Binding ElementName=ThisWindow, Path=NameValueProp}" FontSize="20" FontFamily="MV Boli" FontWeight="Bold">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF979797"/>
+                    <GradientStop Color="#FFA0A0A0" Offset="1"/>
+                    <GradientStop Color="#FFFFC8F5" Offset="0.187"/>
+                    <GradientStop Color="#FFFFC8F5" Offset="0.783"/>
+                    <GradientStop Color="White" Offset="0.343"/>
+                    <GradientStop Color="White" Offset="0.587"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBlock Text="Wiek:" Foreground="Black" FontFamily="Segoe UI Black" FontSize="20" FontStyle="Normal" Margin="0,10,0,0" FontWeight="Normal">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF5F5B7" Offset="0"/>
+                    <GradientStop Color="#FF85FFEE" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBox Name="TextBoxAgeValue" Foreground="Black" FontStyle="Normal" Text="{Binding ElementName=ThisWindow, Path=AgeValueProp}" SelectionTextBrush="Black" FontSize="20" FontFamily="MV Boli" FontWeight="Bold">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9C9C9C"/>
+                    <GradientStop Color="#FF979797" Offset="1"/>
+                    <GradientStop Color="#FFFBCDF3" Offset="0.213"/>
+                    <GradientStop Color="#FFFFCCF6" Offset="0.743"/>
+                    <GradientStop Color="White" Offset="0.396"/>
+                    <GradientStop Color="White" Offset="0.613"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="Sprawdz" Click="Button_Click" Foreground="Black" BorderThickness="0" FontStyle="Italic" FontFamily="Arial Black" FontWeight="Bold" FontSize="20" BorderBrush="Black" Panel.ZIndex="-3" Margin="2,10,2,0"  >
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFFFFDD9" Offset="1"/>
+                    <GradientStop Color="#FECD9AEA"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Sprawdz bind" Click="Button_Click_Bind" Foreground="Black" BorderThickness="0" FontWeight="Normal" FontStyle="Normal" BorderBrush="Black" OpacityMask="#FFFF2828" FontFamily="Arial Black" FontSize="20" Margin="2,5,2,5" >
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FECD9AEA" Offset="0.01"/>
+                    <GradientStop Color="#FFFFFDD9" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="TextBlockValidationName" Foreground="Red" Background="#FFC5DBF1" FontStyle="Italic" Text="{Binding ValidationNameProp, ElementName=ThisWindow}" FontSize="20"/>
+        <TextBlock x:Name="TextBlockValidationAge" Foreground="Red" Background="#FFC5DBF1" FontStyle="Italic" Text="{Binding ValidationAgeProp, ElementName=ThisWindow}" FontSize="20"/>
+        <TextBlock x:Name="TextBlockResult" Foreground="Green" FontStyle="Italic" Text="{Binding Result, ElementName=ThisWindow}" FontSize="20"/>
+        <TextBlock x:Name="TextBlockAgeLegalResult" Foreground="Green" FontStyle="Italic" Text="{Binding AgeIsLegal, ElementName=ThisWindow}" FontSize="20"/>
+    </StackPanel>
+</Window>

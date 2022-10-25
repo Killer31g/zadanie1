@@ -1,0 +1,66 @@
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.cache
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.lref
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.exe
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.deps.json
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.json
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.dev.json
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Users\Uczen\source\repos\zadanie na ocene\bin\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.g.resources
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Users\Uczen\source\repos\zadanie na ocene\obj\Debug\net5.0-windows\zadanie na ocene.genruntimeconfig.cache
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.exe
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.deps.json
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.json
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.dev.json
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zad1\bin\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.csproj.AssemblyReference.cache
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\App.g.cs
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.cache
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.lref
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.g.resources
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfoInputs.cache
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfo.cs
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.csproj.CoreCompileInputs.cache
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Radoslaw Krawczyk 4DD\zad1\obj\Debug\net5.0-windows\zadanie na ocene.genruntimeconfig.cache
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.exe
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.deps.json
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.json
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.runtimeconfig.dev.json
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\bin\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.csproj.AssemblyReference.cache
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\App.g.cs
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.cache
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene_MarkupCompile.lref
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.g.resources
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfoInputs.cache
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.AssemblyInfo.cs
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.csproj.CoreCompileInputs.cache
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\ref\zadanie na ocene.dll
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.pdb
+C:\Radoslaw Krawczyk 4DD\zadanie1\zad1\obj\Debug\net5.0-windows\zadanie na ocene.genruntimeconfig.cache
